@@ -1,0 +1,8 @@
+new angular project ->ng new introduction
+new module with routing -> ng g module routing employee-type
+start angular server is->ng serve;
+To change port while running project-> ng serve --port 4200
+To work with Map in angular js 6 ->npm install rxjs@6 rxjs-compat@6 --save
+To show toaster->npm i ngx-toaster
+
+
