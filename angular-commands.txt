@@ -16,4 +16,8 @@ npm uninstall angular-cli
 npm install @angular/cli --save-dev
 npm install --save-dev @angular/cli@latest
 
+ng g component crudcomponent
+---------------------for error(FullyQualifiedErrorId : UnauthorizedAccess)-------------------------------
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+
 
