@@ -6,9 +6,14 @@ To work with Map in angular js 6 ->npm install rxjs@6 rxjs-compat@6 --save
 To show toaster->npm i ngx-toaster
 
 
-
+npm--node package manager
 
 -------------------------------------ANGULAR INSTALLATION------------------------------------------
 https://javagyanmantra.wixsite.com/website/single-post/2019/06/16/Angular---Environment-Setup-for-Windows
+npm install --save-dev @angular-devkit/build-angular
+
+npm uninstall angular-cli
+npm install @angular/cli --save-dev
+npm install --save-dev @angular/cli@latest
 
 
