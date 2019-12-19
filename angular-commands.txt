@@ -13,7 +13,7 @@ npm--node package manager
 ----------------------------------package installation angular start----------------------------------------------------------------
 
 
-----------------------------------To work with Map in angular js 6 
+----------------------------------To work with Map in angular js 6------------------------------------------------------------------ 
 npm install rxjs@6 rxjs-compat@6 --save
 
 ---------------------------------To show toaster-------------------------------------------------------------------
@@ -44,9 +44,12 @@ ng update @angular/core
 
 --------------------------To use material along with [CDK(component development kit)https://stackoverflow.com/questions/42340649/what-is-cdk-in-angular-material-2-components] ----------------------
 npm install --save @angular/material @angular/cdk
+
+-----------------------------------------animation packages------------------------------------------------------------------
+ ng add @angular/material @angular/cdk @angular/animations
        
 ----------------------------------package installation angular end----------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -57,11 +60,8 @@ To create new module with routing -> ng g module routing employee-type
 To start angular server is->ng serve;
 To change port while running project-> ng serve --port 4200
 ----------------------------------component generation and project mangement end---------------------------------------------------
-
-
-
-
 ng g component crudcomponent
+
 ---------------------for error(FullyQualifiedErrorId : UnauthorizedAccess)-------------------------------
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
 
