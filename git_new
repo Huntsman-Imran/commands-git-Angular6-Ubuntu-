@@ -1,0 +1,19 @@
+git config --global user.name "bla bla"
+git config --global user.email "bla bla"
+--------------------------------------------
+git init (to create a git repository or to reinitialize existing one)
+
+git remote add origine **copied url form github** (To add origine to git) 
+
+git pull origine master (To pull origine to to git folder)
+---------------------------------------------
+First Branch( while no changes ocoured )
+
+
+git log (to see all commit info)
+git log --oneline
+git status ( To check the changing of files)
+
+git add ( To add the changing of files)
+
+git commit -m "bla bla"
