@@ -12,8 +12,22 @@ First Branch( while no changes ocoured )
 
 git log (to see all commit info)
 git log --oneline
+
+git show id_of_commit
+git diff
+git diff --staged
+git diff tow_commit_id
+git reset HEAD file_name
+git checkout commit_id file_name_or_all_change
+
+git branch branch_name
+
 git status ( To check the changing of files)
 
 git add ( To add the changing of files)
 
 git commit -m "bla bla"
+
+
+
+git marge baranch_name
