@@ -19,15 +19,15 @@ git diff --staged
 git diff tow_commit_id
 git reset HEAD file_name
 git checkout commit_id file_name_or_all_change
-
 git branch branch_name
-
+git branch
 git status ( To check the changing of files)
-
 git add ( To add the changing of files)
-
 git commit -m "bla bla"
-
-
-
+git remote –v
+git checkout branch name
+git pull origin master
 git marge baranch_name
+
+
+
