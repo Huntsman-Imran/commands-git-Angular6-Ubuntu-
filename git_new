@@ -29,5 +29,10 @@ git checkout branch name
 git pull origin master
 git marge baranch_name
 
+to start new work
+------------------
+ git fetch
+ git rebase origin/master
+ 
 
 
